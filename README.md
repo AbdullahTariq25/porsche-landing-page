@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&pause=1000&color=E32636&center=true&vCenter=true&width=800&lines=HIGH-PERFORMANCE+WEB+EXPERIENCE;NEXT.JS+14+%7C+TAILWIND+CSS;FRAME-BY-FRAME+SCROLL+ANIMATIONS;GSAP+%7C+FRAMER+MOTION" alt="Typing SVG" />
 </a>
 
+<br />
+<a href="https://porsha-beta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-porsha--beta.vercel.app-231a38?style=for-the-badge&logo=vercel" alt="Live Demo" />
+</a>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="80%">
 </p>
